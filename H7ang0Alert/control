@@ -1,0 +1,10 @@
+Package: com.yuayu.h7ang0alert
+Name: H7ang0Alert
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: iOS26-style dialog for iOS 14–18 (confirm/password/final). Open source.
+Maintainer: yuayu
+Author: yuayu
+Section: Tweaks
+Depends: mobilesubstrate
+Priority: optional 
